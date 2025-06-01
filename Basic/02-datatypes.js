@@ -1,22 +1,16 @@
-/*
-Clase 17 - Tipos de datos
-Vídeo: https://youtu.be/1glVfFxj8a4?t=3599
-*/
-
 // Tipos de datos primitivos
-
 // Cadenas de texto (string)
-let myName = "Brais Moure"
-let alias = 'MoureDev'
-let email = `braismoure@mouredev.com`
+let myName = "Eduardo Gil"
+let alias = 'Pisangas'
+let email = `pisangas@gmail.com`
 
 // Números (number)
-let age = 37 // Entero
-let height = 1.77 // Decimal
+let age = 42 // Entero
+let height = 1.70 // Decimal
 
 // Booleanos (boolean)
-let isTeacher = true
-let isStudent = false
+let isTeacher = false
+let isStudent = true
 
 // Undefined
 let undefinedValue
@@ -27,7 +21,7 @@ let nullValue = null
 
 // Symbol
 
-let mySymbol = Symbol("mysymbol")
+let mySymbol = Symbol("3ypo")
 
 // BigInt
 

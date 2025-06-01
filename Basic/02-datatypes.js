@@ -21,7 +21,7 @@ let nullValue = null
 
 // Symbol
 
-let mySymbol = Symbol("3ypo")
+let mySymbol = Symbol("it's a symbol")
 
 // BigInt
 
